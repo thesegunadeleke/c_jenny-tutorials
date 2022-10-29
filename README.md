@@ -15,3 +15,5 @@
  whileloop.c - a simple program to print 1 to 10 using while loop
 
  whileloopalpha.c - program to print alphabets a to z using while loop
+
+ dowhileloop.c - a simple program using dowhile loop
