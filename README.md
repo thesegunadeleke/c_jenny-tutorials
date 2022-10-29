@@ -7,3 +7,7 @@
  switchcasetask.c - Program checks and grades the scores of students
 
  switchcalc.c - Simple add, subtract, divide and multiplication calculator using switch case in c
+
+ forloop.c - a program to print 10 values using the for loop function
+
+ forlooptablecalc.c - a program to calculate and print the table of random user input numbers up to 12 (assignment)
