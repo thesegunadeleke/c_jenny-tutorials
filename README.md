@@ -10,4 +10,6 @@
 
  forloop.c - a program to print 10 values using the for loop function
 
- forlooptablecalc.c - a program to calculate and print the table of random user input numbers up to 12 (assignment)
+ forlooptablecalc.c - a program to calculate and print the table of random user input numbers up to 12 (assignment
+)
+ whileloop.c - a simple program to print 1 to 10 using while loop
